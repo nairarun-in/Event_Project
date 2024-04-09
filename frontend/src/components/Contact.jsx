@@ -42,21 +42,21 @@ const Contact = () => {
         <div className="banner">
           <div className="item">
             <h4>Address</h4>
-            <p>Any where, Any City, 4521</p>
+            <p>Any where, Any City, 1111</p>
           </div>
           <div className="item">
             <h4>Call Us</h4>
-            <p>Call Us: +92-321-1111111</p>
+            <p>Call Us: +92-111-1111111</p>
           </div>
           <div className="item">
             <h4>Mail Us</h4>
-            <p>zk@gmail.com</p>
+            <p>king.s@gmail.com</p>
           </div>
         </div>
         <div className="banner">
           <div className="item">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57929.23355645912!2d67.01519255!3d24.8441321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e70a31f45a9%3A0x25e252450977ec12!2sSaddar%20Town%2C%20Karachi%2C%20Sindh!5e0!3m2!1sen!2s!4v1709099958323!5m2!1sen!2s"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin"
               style={{ border: 0, width: "100%", height: "450px" }}
               allowFullScreen=""
               loading="lazy"
