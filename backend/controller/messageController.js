@@ -16,10 +16,10 @@ export const sendMessage = async (req, res) => {
     });
   } catch (error) {
     if (error.name === "ValidationError") {
-      let errorMessage = "";
-      if (error.errors.name) {
+      // let errorMessage = "";
+      // if (error.errors.name) {
         errorMessage += error.errors.name.message + " ";
-      }
+      // }
       if (error.errors.email) {
         errorMessage += error.errors.email.message + " ";
       }
